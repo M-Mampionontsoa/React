@@ -1,4 +1,4 @@
-Parfait 👌 Voici ton **README.md** en anglais (prêt à copier-coller) :
+
 
 ````markdown
 # My First React Project
@@ -38,5 +38,5 @@ I am just getting started with this framework, and this project is an important 
 
 ```
 
-Veux-tu aussi que je t’écrive une version **très courte et simplifiée** (juste 3–4 lignes) au cas où tu veux un README minimaliste ?
+
 ```
