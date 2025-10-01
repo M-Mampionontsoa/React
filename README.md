@@ -1,16 +1,42 @@
-# React + Vite
+Parfait 👌 Voici ton **README.md** en anglais (prêt à copier-coller) :
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````markdown
+# My First React Project
 
-Currently, two official plugins are available:
+This is my very first application built with **React** 🎉.  
+I am just getting started with this framework, and this project is an important step to learn and improve my front-end development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Goals
 
-## React Compiler
+- Learn the basics of React (components, props, state).  
+- Understand how to structure a React application.  
+- Practice using the development environment powered by **Vite**.  
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Installation & Run
 
-## Expanding the ESLint configuration
+1. Clone the project:  
+   ```bash
+   git clone <project-url>
+````
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Notes
+
+* This project is mainly an **exercise for learning purposes**.
+* I will keep improving it as I progress in my React journey.
+
+```
+
+Veux-tu aussi que je t’écrive une version **très courte et simplifiée** (juste 3–4 lignes) au cas où tu veux un README minimaliste ?
+```
